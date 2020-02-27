@@ -3,4 +3,9 @@
 * [主页](README.md)
 
 ## JavaScript
-* [语法糖](javascript_syntactic_sugar.md)
+
+## JavaScript <a id="javascript-1"></a>
+
+* [Untitled](javascript-1/untitled/README.md)
+  * [语法糖](javascript-1/untitled/javascript_syntactic_sugar.md)
+
